@@ -167,7 +167,6 @@ No deployment yet
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Vishal Mishra**
 - GitHub: [@Vishal30M](https://github.com/Vishal30M)
