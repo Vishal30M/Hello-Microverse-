@@ -52,7 +52,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -106,13 +105,13 @@ Git, A text editor
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/Vishal30M/Hello-Microverse-.git
+git clone git@github.com/Vishal30M/Hello-Microverse-.git
 <!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+git clone git@github.com:myaccount/my-project.git
 ```
 --->
 
