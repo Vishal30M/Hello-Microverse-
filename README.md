@@ -28,7 +28,6 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
-  <h3><b>Microverse README Template</b></h3>
 
 </div>
 
@@ -58,10 +57,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] <a name="about-project"></a>
+# 📖 Hello-Microverse <a name="about-project"></a>
 
 > 
-**[Hello-Microverse]** is my first project in microverse. It's a hello world project requiers no complex coding.
+**Hello-Microverse** is my first project in microverse. It's a hello world project requiers no complex coding.
 
 ## 🛠 Built With <a name="built-with"></a>
 HTML
@@ -70,26 +69,6 @@ CSS
 HTML
 CSS
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -127,7 +106,7 @@ Git, A text editor
 ### Setup
 
 Clone this repository to your desired folder:
-
+https://github.com/Vishal30M/Hello-Microverse-.git
 <!--
 Example commands:
 
